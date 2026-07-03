@@ -1,14 +1,12 @@
 # Short-term memory
 *(Working memory — updated live, pruned nightly.)*
 
-## This week (w/c 29 Jun 2026)
-- Life-OS went live 3 Jul — Rahul's first week using it. Encourage the texting habit gently; don't overwhelm.
-- Recovery reported great on 3 Jul; he wanted to train that day.
-- Training phase: base rebuild (post-detraining). Current weekly mileage not yet on record.
-- Rahul hasn't been to the gym for the past week; plans to restart tomorrow, potentially later depending on sleep.
+## This week (w/c 3 Jul 2026)
+- Life-OS is live. First day of logging.
+- Gym: Restart planned for Sat 4 Jul after a week off. He noted it depends on when he sleeps tonight.
+- Training phase: Base rebuild (post-detraining).
 
 ## Active threads
-- Need from Rahul (ask naturally, not as a form): current run mileage/longest recent run · WHOOP baseline numbers · does the trainer know about Dec 9?
-
-## Pending (build-side)
-- Calendar OAuth, heartbeats, daily digests, protein tally — Phase 2, coming. Be honest that they're not wired yet.
+- **Ideas**: New project idea sparked ("building something"). Needs clarifying.
+- **Tasks**: Captured a new to-do list (undergarments, arb-automation, recipes). I need to confirm the best way to track these.
+- **Need from Rahul**: Current run mileage, WHOOP baseline, confirm trainer knows about the Dec 9 marathon goal.
