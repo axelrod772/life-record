@@ -5,6 +5,7 @@
 - **Life-OS went live 3 Jul** — Rahul's first week using it. Encourage the texting habit gently; don't overwhelm.
 - Recovery reported **great** on 3 Jul; he wanted to train that day.
 - Training phase: base rebuild (post-detraining). Current weekly mileage not yet on record.
+- Rahul hasn't been to the gym for the past week; plans to restart tomorrow.
 
 ## Active threads
 - Need from Rahul (ask naturally, not as a form): current run mileage/longest recent run · WHOOP baseline numbers · does the trainer know about Dec 9?
