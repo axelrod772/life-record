@@ -1,6 +1,6 @@
 ## This week (w/c 3 Jul 2026)
 - Training phase: Base rebuild. Now have the mileage to draft the first marathon plan.
-- Long run scheduled for Sunday morning.
+- Status of Sunday's long run is open.
 
 ## Active threads
 - **Tasks**: Pending to-do list:
