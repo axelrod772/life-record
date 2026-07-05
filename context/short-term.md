@@ -3,4 +3,9 @@
 - Long run scheduled for Sunday morning.
 
 ## Active threads
-- **Tasks**: Pending to-do list (undergarments, recipes). Need to decide on a tracking method.
+- **Tasks**: Pending to-do list:
+    - Undergarments
+    - Recipes
+    - Setup branding and website for startup/freelance work
+    - Follow through with Dinesh for potential work
+    - Talk to Gopal for potential work
