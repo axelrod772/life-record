@@ -1,9 +1,10 @@
-## This week (w/c 3 Jul 2026)
-- Training phase: Base rebuild. Now have the mileage to draft the first marathon plan.
-- Status of Sunday's long run is open.
+## This week (w/c 6 Jul 2026)
+- Training phase: Base rebuild. The weekend long run is still an open question.
+- Food logging missing for Sunday and Monday.
 
 ## Active threads
-- **Tasks**: Pending to-do list:
+- **Mindset:** Developing a plan for improving communication skills for his business.
+- **Tasks:** Pending to-do list:
     - Undergarments
     - Recipes
     - Setup branding and website for startup/freelance work
