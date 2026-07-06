@@ -8,4 +8,3 @@
     - Recipes
     - Setup branding and website for startup/freelance work
     - Follow through with Dinesh for potential work
-    - Talk to Gopal for potential work
