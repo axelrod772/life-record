@@ -1,13 +1,11 @@
 ## This week (w/c 6 Jul 2026)
 - Training phase: Base rebuild.
-- Note: No logs for food, training, or recovery for four consecutive days (Wed-Sat).
+- Note: The weekend long run was missed. No logs for food, training, or recovery for five consecutive days (Wed-Sun). This marks a fully missed week of training data.
 
 ## Active threads
 - Mindset: Developing a plan for improving communication skills for his business.
-- Training: The weekend long run was missed Saturday. Sunday is the last chance for this week.
 
 ## Tasks: Pending to-do list:
-- Lock in the weekend long run.
 - Undergarments
 - Recipes
 - Setup branding and website for startup/freelance work
