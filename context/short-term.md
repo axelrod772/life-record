@@ -1,6 +1,6 @@
-## This week (w/c 6 Jul 2026)
-- Training phase: Base rebuild.
-- Note: The weekend long run was missed. No logs for food, training, or recovery for five consecutive days (Wed-Sun). This marks a fully missed week of training data.
+## This week (w/c 13 Jul 2026)
+- Training phase: Base rebuild (Week 2).
+- Note: Coming off a fully missed week of training and data logging. The key is to restart simply tomorrow.
 
 ## Active threads
 - Mindset: Developing a plan for improving communication skills for his business.
