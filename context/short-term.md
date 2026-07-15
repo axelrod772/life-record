@@ -1,7 +1,6 @@
 ## This week (w/c 13 Jul 2026)
 - Training phase: Base rebuild (Week 2).
 - Note: Back on track after a missed week. Tuesday's strength session broke the streak. The focus is now on consistency.
-- Today's sleep: 6h 55m (22:50-05:45).
 
 ## Active threads
 - Mindset: Developing a plan for improving communication skills for his business.
